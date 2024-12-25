@@ -4,7 +4,8 @@ A modern web application that transcribes audio, generates summaries, and provid
 
 ## Screenshot
 
-![Application Interface](https://github.com/yourusername/ai-audio-processing/raw/main/public/screenshot.png)
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/da469c53-7953-45b4-a50f-ee4364713b7d" />
+
 
 ## Features
 
