@@ -39,8 +39,8 @@ A modern web application that transcribes audio, generates summaries, and provid
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-audio-processing.git
-cd ai-audio-processing
+git clone https://github.com/yourusername/ai-audio-processing-cf.git
+cd ai-audio-processing-cf
 ```
 
 2. Install dependencies:
